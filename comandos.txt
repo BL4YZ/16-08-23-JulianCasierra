@@ -1,0 +1,52 @@
+  157  cd desktop
+  158  ls
+  159  git clone https://github.com/BL4YZ/16-08-23-JulianCasierra.git
+  160  cd 16-08-23-JulianCasierra
+  161  touch "main.js" "index.html"
+  162  ls
+  163  commit -m "commit 01 JulianCasierra"
+  164  git commit -m "commit 01 JulianCasierra"
+  165  git config user.email juliandc61@gmail.com
+  166  git config user.name Julian
+  167  git commit -m "commit 01 JulianCasierra"
+  168  git add .
+  169  git commit -m "commit 01 JulianCasierra"
+  170  git push origin main
+  171  git checkout feacture
+  172  git branch feacture
+  173  git checkout
+  174  git checkout feacture
+  175  mkdir "Hardwar" "Software" "SeguridadInformatica"
+  176  cd Hardware
+  177  cd Hardwar
+  178  cd ..
+  179  mv Hardwar Hardware
+  180  ls
+  181  cd Hardware
+  182  touch resumen.txt
+  183  ls
+  184  cd ..
+  185  cd Software
+  186  touch resumen.txt
+  187  ls
+  188  cd ..
+  189  cd SeguridadInformatica
+  190  touch resumen.txt
+  191  cd ..
+  192  ls
+  193  git status
+  194  git add .
+  195  git commit "commit 02 JulianCasierra"
+  196  git commit -m "commit 02 JulianCasierra"
+  197  git push origin feacture
+  198  checkout main
+  199  checkout
+  200  git branch feactur
+  201  git checkout main
+  202  ls
+  203  mv main.js resumenHardware.txt
+  204  ls
+  205  mv index.html resumenSofware.txt
+  206  ls
+  207  touch comandos.txt
+  208  history
